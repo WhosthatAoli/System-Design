@@ -29,7 +29,7 @@ Call function remotely like client call functions on code on server
 
     Request and response
 
-   codes![Screen Shot 2022-12-23 at 6.20.51 PM](image/Screen Shot 2022-12-23 at 6.20.51 PM.png)
+   codes![HTTP status codes](https://github.com/WhosthatAoli/System-Design/blob/main/image/HTTP%20Status%20Codes.png)
 
 #### Websocket
 
@@ -127,7 +127,7 @@ hash based
 
 ### CAP Theorem
 
-![Screen Shot 2022-12-28 at 10.52.41 PM](image/Screen Shot 2022-12-28 at 10.52.41 PM.png)
+![CAP](https://github.com/WhosthatAoli/System-Design/blob/main/image/CAP%20Theorem.png)
 
 ### Object Storage
 
